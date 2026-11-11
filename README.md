@@ -1,2 +1,2 @@
 # rafaeljrpinheiro.github.io
-Encaminha para a Central Jurídica (só redirecionamento, sem dados).
+Encaminha para o Portal no endereço novo (só redirecionamento, sem dados).
